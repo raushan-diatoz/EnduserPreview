@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114.528" height="24" viewBox="0 0 114.528 24">
+  <g id="icons_light_back" data-name="icons/light/back" transform="translate(114.473 24) rotate(180)">
+    <rect id="bg" width="58" height="24" transform="translate(-0.056)" fill="none"/>
+    <path id="icon" d="M8.984,13.29.671,7.515A.75.75,0,0,1,.619,6.031L8.984.22a1.434,1.434,0,0,1,1.526,0,.6.6,0,0,1,0,1.06L3.689,6.019h106.4a.75.75,0,1,1,0,1.5H3.73l6.78,4.711a.6.6,0,0,1,0,1.06,1.434,1.434,0,0,1-1.526,0Z" transform="translate(3.634 5.231)" fill="#fff"/>
+  </g>
+</svg>

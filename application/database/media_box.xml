@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Tue Feb 11 20:02:47 IST 2020 -->
+
+<media_box>
+
+     <musics>
+       <trending>
+           <music>
+           
+<id>1</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+ <id>2</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+ </music>
+ <music>
+           
+<id>3</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>4</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>5</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>6</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http:///media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>7</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+</trending>
+<new>
+    <music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http:///media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music><music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+<music>
+           
+<id>8</id>
+<title>A History of Violence</title>
+<year>2005</year>
+<country>USA</country>
+<genre>Crime</genre>
+<rate>4.5</rate>
+<summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+</summary>
+<director>
+<last_name>Cronenberg</last_name>
+<first_name>David</first_name>
+<birth_date>1943</birth_date>
+</director>
+<actor>
+<first_name>Vigo</first_name>
+<last_name>Mortensen</last_name>
+<birth_date>1958</birth_date>
+<role>Tom Stall</role>
+</actor>
+<actor>
+<first_name>Maria</first_name>
+<last_name>Bello</last_name>
+<birth_date>1967</birth_date>
+<role>Eddie Stall</role>
+</actor>
+<actor>
+<first_name>Ed</first_name>
+<last_name>Harris</last_name>
+<birth_date>1950</birth_date>
+<role>Carl Fogarty</role>
+</actor>
+<actor>
+<first_name>William</first_name>
+<last_name>Hurt</last_name>
+<birth_date>1950</birth_date>
+<role>Richie Cusack</role>
+</actor>
+<audio>
+        <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+        <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+        <duration>3:00</duration>
+ </audio>
+</music>
+
+
+</new>
+</musics>
+     <home>
+
+          <popular>
+
+                  <movie>
+                     <id>1</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <language>English</language>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/ghost.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>3</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>4</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>5</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>6</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <language>English</language>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>7</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>8</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/avengers.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>             
+
+          </popular>
+
+            
+
+          <block>
+  
+
+                 <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+        
+
+          </block>
+
+          <music>
+
+               <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+<movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+         
+
+          </music>
+
+          <news>
+
+              <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+                <movie>
+                     <id>2</id>
+                     <title>A History of Violence</title>
+                     <year>2005</year>
+                     <country>USA</country>
+                     <genre>Crime</genre>
+                     <rate>4.5</rate>
+                     <summary>
+Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.
+                     </summary>
+
+                     <video>
+                         <url>https://www.youtube.com/watch?v=6ZfuNTqbHE8</url>
+                         <thumbnail>http://localhost/media/img/city.jpg</thumbnail>
+                         <duration>3:00</duration>
+                     </video>
+
+                </movie>
+
+          </news>
+
+     </home>
+
+     <movies>
+
+     
+
+     </movies>
+
+</media_box>

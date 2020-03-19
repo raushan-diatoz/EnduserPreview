@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <id>5e4b8ac221fc393b63414a49</id>
+  <regNo>TN23SD1111</regNo>
+  <journeyDetails>
+    <startLocation>
+      <latitude>12.971599</latitude>
+      <longitude>77.59457</longitude>
+    </startLocation>
+    <endLocation>
+      <latitude>11.016845</latitude>
+      <longitude>76.95583</longitude>
+    </endLocation>
+    <stopDetails>
+      <latitude>12.916943</latitude>
+      <longitude>77.62193</longitude>
+    </stopDetails>
+    <stopDetails>
+      <latitude>12.8439865</latitude>
+      <longitude>77.67391</longitude>
+    </stopDetails>
+    <stopDetails>
+      <latitude>12.5265665</latitude>
+      <longitude>78.21496</longitude>
+    </stopDetails>
+    <stopDetails>
+      <latitude>12.740912</latitude>
+      <longitude>77.825294</longitude>
+    </stopDetails>
+    <stopDetails>
+      <latitude>11.016845</latitude>
+      <longitude>76.95583</longitude>
+    </stopDetails>
+    <stopNames>Central Silk Board Colony, Stage 2, BTM Layout, Bengaluru, Karnataka 560068, India</stopNames>
+    <stopNames>Electronic City, Bengaluru, Karnataka, India</stopNames>
+    <stopNames>Krishnagiri, Tamil Nadu 635001, India</stopNames>
+    <stopNames>Hosur, Tamil Nadu, India</stopNames>
+    <stopNames>Coimbatore, Tamil Nadu, India</stopNames>
+    <startTime>04:01:00</startTime>
+    <arrivalTime>16:02:00</arrivalTime>
+    <duration>PT12H1M</duration>
+  </journeyDetails>
+  <journeyDetails>
+    <startLocation>
+      <latitude>11.016845</latitude>
+      <longitude>76.95583</longitude>
+    </startLocation>
+    <endLocation>
+      <latitude>12.971599</latitude>
+      <longitude>77.59457</longitude>
+    </endLocation>
+    <stopDetails>
+      <latitude>12.916943</latitude>
+      <longitude>77.62193</longitude>
+    </stopDetails>
+    <stopDetails>
+      <latitude>12.8439865</latitude>
+      <longitude>77.67391</longitude>
+    </stopDetails>
+    <stopDetails>
+      <latitude>12.5265665</latitude>
+      <longitude>78.21496</longitude>
+    </stopDetails>
+    <stopDetails>
+      <latitude>12.740912</latitude>
+      <longitude>77.825294</longitude>
+    </stopDetails>
+    <stopDetails>
+      <latitude>11.016845</latitude>
+      <longitude>76.95583</longitude>
+    </stopDetails>
+    <stopNames>Central Silk Board Colony, Stage 2, BTM Layout, Bengaluru, Karnataka 560068, India</stopNames>
+    <stopNames>Electronic City, Bengaluru, Karnataka, India</stopNames>
+    <stopNames>Krishnagiri, Tamil Nadu 635001, India</stopNames>
+    <stopNames>Hosur, Tamil Nadu, India</stopNames>
+    <stopNames>Coimbatore, Tamil Nadu, India</stopNames>
+    <startTime>18:33:00</startTime>
+    <arrivalTime>06:34:00</arrivalTime>
+    <duration>PT12H1M</duration>
+  </journeyDetails>
+  <clientId>5e37c3360dfed515aa6d1ccb</clientId>
+  <deviceId>5e415cf221fc39432b19f078</deviceId>
+</root>
